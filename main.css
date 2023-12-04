@@ -1,0 +1,34 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background-color: #58826f;
+	max-width: 800px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-header {
+	color: whitesmoke;
+	background-color: black;
+	font-size: 25px; 
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	text-align: center;
+}
+
+
+.banner {
+	color: white;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: small-caps;
+}
+
+.one {
+	background-color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px; 
+	padding-right: 30px;
+
+
+}
